@@ -1,9 +1,9 @@
-## 📝 Description
+### 📝 Description
 <!-- 
   Please include a summary of the changes, relevant motivation, context, and the reason for the change.
   - Start each bullet with imperative verbs
   - Make sure descriptions are as concise as possible
-  - If there are many files changed, reference each bullet point in the list with a commit tag
+  - If there are many commits related to different changes, reference each bullet point in the list with a commit tag to help identify which commit is related to which change
 -->
 - 
 
@@ -17,7 +17,7 @@
   - **Documentation update**: enhance or fix something related to the project's documentation
 -->
 
-### 🔗 Related Issue
+### 🔗 Related Issue, if any
 <!--
   Please link to the issue here if it exists
 -->
@@ -31,10 +31,10 @@ Fixes #`{issue_number}` (`{issue_title}`).
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
 
-### 💡 Additional Context
+### 💡 Additional Context, if any
 <!--
-  Add any other context about the pull request here, like:
-  - Screenshots
+  Add any other context about the pull request here
+  eg.: - Screenshots
   - Logs
   - Examples that might help understand the changes better
 -->
