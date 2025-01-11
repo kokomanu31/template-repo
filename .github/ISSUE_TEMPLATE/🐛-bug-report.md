@@ -31,6 +31,8 @@ assignees: kokomanu31
 ### Screenshots, if any
 <!--
   If applicable, add screenshots, a GIF or a video recording to help explain your problem.
+
+  Note: If none, write *N/A* as the answer to this question
 -->
 
 ### Specs

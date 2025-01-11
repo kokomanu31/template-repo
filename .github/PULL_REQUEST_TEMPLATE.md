@@ -37,4 +37,6 @@ Fixes #`{issue_number}` (`{issue_title}`).
   eg.: - Screenshots
   - Logs
   - Examples that might help understand the changes better
+
+  Note: If none, write *N/A* as the answer to this question
 -->

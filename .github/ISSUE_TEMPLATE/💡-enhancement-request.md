@@ -22,10 +22,12 @@ assignees: kokomanu31
 ### Additional context
 <!--
   Include any other information or context about why this enhancement is needed, such as user feedback or performance improvements, screenshots, GIFs or video recordings
+
+  Note: If none, write *N/A* as the answer to this question
 -->
 
 ### Benefits
 <!--
   Explain how this enhancement improves the current feature, and what benefits it would bring
-  e.g.: Will greatly increase user experience
->
+  eg.: Will greatly increase user experience
+-->
