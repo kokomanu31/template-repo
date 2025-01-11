@@ -7,7 +7,7 @@ assignees: kokomanu31
 
 ---
 
-### What is the nature of the issue?**
+### What is the nature of the issue?
 <!--
   Please uncomment the type of issue related to documentation:
   - [ ] Missing documentation
@@ -34,7 +34,7 @@ assignees: kokomanu31
   eg.: "Add a step explaining how to configure the database connection."
 -->
 
-### Additional context
+### Additional context, if any
 <!--
   Provide any additional details, such as links to the problematic documentation, screenshots, or other relevant information that would help address the issue.
 

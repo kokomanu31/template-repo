@@ -50,7 +50,7 @@ assignees: kokomanu31
 - Broswer version:
 - App version: 
 
-### Additional context
+### Additional context, if any
 <!--
   Add any other context about the problem here such as links, references, links to other ressources, etc.
 

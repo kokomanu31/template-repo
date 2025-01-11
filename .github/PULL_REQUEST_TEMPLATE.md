@@ -20,6 +20,8 @@
 ### 🔗 Related Issue, if any
 <!--
   Please link to the issue here if it exists
+
+  Note: If none, replace with *N/A* as the answer to this question
 -->
 Fixes #`{issue_number}` (`{issue_title}`).
 
