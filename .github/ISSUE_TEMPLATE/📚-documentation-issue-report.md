@@ -10,11 +10,11 @@ assignees: kokomanu31
 ### What is the nature of the issue?
 <!--
   Please uncomment the type of issue related to documentation:
-  - [ ] Missing documentation
-  - [ ] Outdated information
-  - [ ] Typo or grammatical error
-  - [ ] Unclear or confusing instructions
-  - [ ] Other (please specify):
+  - Missing documentation
+  - Outdated information
+  - Typo or grammatical error
+  - Unclear or confusing instructions
+  - Other (please specify):
 -->
 
 ### Description of the problem
