@@ -7,14 +7,27 @@ assignees: kokomanu31
 
 ---
 
-**Current behaviour:**
-A description of the current behaviour of the feature. Example: "Currently, the search feature only allows filtering by name."
+### Current behaviour
+<!--
+  A description of the current behaviour of the feature.
+  eg.: "Currently, the search feature only allows filtering by name."
+-->
 
-**Proposed enhancement**
-A clear and concise description of how you'd like to improve the existing feature. Example: "Add a filter option to search by author and difficulty level."
+### Proposed enhancement
+<!--
+  A clear and concise description of how you'd like to improve the existing feature.
+  eg.: "Add a filter option to search by author and difficulty level."
+-->
 
-**Additional context**
-Include any other information or context about why this enhancement is needed, such as user feedback or performance improvements.
+### Benefits
+<!--
+  Explain how this enhancement improves the current feature, and what benefits it would bring
+  eg.: Will greatly increase user experience
+-->
 
-**Benefits**
-Explain how this enhancement improves the current feature, and what benefits it would bring (e.g., user experience, efficiency, etc.).
+### Additional context, if any
+<!--
+  Include any other information or context about why this enhancement is needed, such as user feedback or performance improvements, screenshots, GIFs or video recordings
+
+  Note: If none, write *N/A* as the answer to this question
+-->
